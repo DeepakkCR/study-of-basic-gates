@@ -79,10 +79,10 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
 ```
-
+```
  Developed by:C.R.DEEPAKK
  RegisterNumber: 24007006
- 
+ ```
 **Logic symbol & Truthtable**:
 
 ![image](https://github.com/user-attachments/assets/1a18569e-85b3-4843-888b-bd290b01ac85)
